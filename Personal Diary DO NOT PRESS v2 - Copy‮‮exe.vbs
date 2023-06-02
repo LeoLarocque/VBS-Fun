@@ -6,7 +6,7 @@ Set sapi=CreateObject("sapi.spvoice")
 hello=("We are processing your information.")
 sapi.Speak hello
 Set sapi=CreateObject("sapi.spvoice")
-hello=("DOWNLOADING 0%... 33%... 72%... 93%.... 99%... 100%... DOWNLOADING COMPLETED...")
+hello=("DOWNLOADING 0%... 33%... 72%... 93%.... 99%... 100%... DOWNLOADING COMPLETED. Zip file will be transfered to hacker.")
 sapi.Speak hello
 Set sapi=CreateObject("sapi.spvoice")
 hello=("Your information has been downloaded.")
